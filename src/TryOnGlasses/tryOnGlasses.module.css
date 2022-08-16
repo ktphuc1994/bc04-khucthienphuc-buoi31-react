@@ -1,0 +1,14 @@
+.tryGlass {
+  background: url(../../public/glassesImage/bg_tryOnGlass.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tryOnImage {
+  position: absolute;
+  bottom: 60%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 170px;
+  opacity: 0.9;
+}
